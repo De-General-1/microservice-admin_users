@@ -1,0 +1,11 @@
+{
+  "type": "mysql",
+  "host": "localhost",
+  "port": 3306,
+  "username": "root",
+  "password": "Adm!n@1234",
+  "database": "micro_db",
+  "entities": ["src/entity/*.js"],
+  "logging": false,
+  "synchronize": true
+}
